@@ -1,11 +1,11 @@
-#generative-deep-learning-with-tensorflow
+# generative-deep-learning-with-tensorflow
 Material relativo ao curso [Generative Deep Learning With Tensorflow][https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/]
 
 Organização das Semanas:
 *Semana 1*
 C4W1
 Transfer Style
-**Arquivos foram resolvidos, e algumas linhas foram alteradas para pegarmos imagens da internet e fazermos iterativamente, link para o .docs do material está no final**
+** Arquivos foram resolvidos, e algumas linhas foram alteradas para pegarmos imagens da internet e fazermos iterativamente, link para o .docs do material está no final **
 C4W1 lab1 - usa VGG
 C4W1 lab2 - faz já baixando a imagem 
 C4W1 Assignment - tarefa relacionada, faz usando Inception Architecture
